@@ -20,6 +20,6 @@
 
 ![Kakzaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakzaki&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakzaki&layout=compact)](https://github.com/kakzaki/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakzaki)](https://github.com/kakzaki/github-readme-stats)
+
 
 
