@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter, Laravel, NodeJS, React JS**
 
-- 👯 I’m looking for freelance and part-time work
+- 👯 I’m looking for freelance and part-time job
 
 - 👨‍💻 All of my projects are available at [ My Porfolio](https://kakzaki.my.id/)
 
