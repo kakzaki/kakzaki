@@ -18,3 +18,4 @@
 
 - ⚡ Fun fact **I am going to be dad**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kakzaki&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
