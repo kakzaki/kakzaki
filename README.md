@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences from [My Resume](https://kakzaki.my.id/)
 
-- ⚡ Fun fact **I am going to be dad**
+- ⚡ Fun fact **I am officially a dad now**
 
 ![Kakzaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakzaki&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakzaki&layout=compact)](https://github.com/kakzaki/github-readme-stats)
