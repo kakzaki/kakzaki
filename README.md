@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working with **DoranDev**
 
-- 🌱 I’m currently learning **Flutter, Laravel, NodeJS, React JS**
+- 🌱 I’m currently learning **Flutter, Laravel, Express, Next, Deno fresh**
 
 - 👯 open for freelance project
 
-- 👨‍💻 All of my projects are available at [ My Porfolio](https://kakzaki.my.id/)
+- 👨‍💻 All of my projects are available at [My Porfolio](https://kakzaki.deno.dev/)
 
 - 💬 Ask me about **Flutter , Android , Laravel**
 
