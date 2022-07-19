@@ -21,7 +21,7 @@
 ![Kakzaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakzaki&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakzaki&layout=compact&count_private=true)](https://github.com/kakzaki/github-readme-stats)
 
-[![Kakzaki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakzaki&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kakzaki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakzaki&count_private=true)](https://github.com/kakzaki/github-readme-stats)
 
 
 
