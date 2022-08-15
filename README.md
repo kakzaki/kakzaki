@@ -8,13 +8,13 @@
 
 - 👯 open for freelance project
 
-- 👨‍💻 All of my projects are available at [My Porfolio](https://kakzaki.deno.dev/)
+- 👨‍💻 All of my projects are available at [My Porfolio](https://kakzaki.dev/)
 
 - 💬 Ask me about **Flutter , Android , Laravel**
 
 - 📫 How to reach me **kakzaki@gmail.com**
 
-- 📄 Know about my experiences from [My Resume](https://kakzaki.my.id/)
+- 📄 Know about my experiences from [My Resume](https://kakzaki.dev/)
 
 - ⚡ Fun fact **I am officially a dad now**
 
