@@ -20,6 +20,6 @@
 
 ![Kakzaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakzaki&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakzaki&layout=compact&count_private=true)](https://github.com/kakzaki/github-readme-stats)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kakzaki" alt="mystreak"/>
 
 
