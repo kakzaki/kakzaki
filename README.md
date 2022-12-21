@@ -69,7 +69,7 @@
 
 
 ![Kakzaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakzaki&count_private=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kakzaki" alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakzaki" alt="mystreak"/> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakzaki&layout=compact&count_private=true)](https://github.com/kakzaki/github-readme-stats)
 
 
