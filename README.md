@@ -32,6 +32,8 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FFA500?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-FFA500?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
 <h3>Open source projects</h3>
