@@ -13,7 +13,7 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-45b8d8?style=flat-square&logo=codeigniter&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-404D59?style=flat-square&logo=expressjs&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-ExpressJS-404D59?style=flat-square&logo=express&logoColor=white" />
   <img alt="Fresh" src="https://img.shields.io/badge/-Fresh-43853d?style=flat-square&logo=fresh&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=white" />
