@@ -18,7 +18,6 @@
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=white" />
   <img alt="Preact" src="https://img.shields.io/badge/-Preact-20232A?style=flat-square&logo=preact&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/-Deno-404D59?style=flat-square&logo=deno&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -32,8 +31,8 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FFA500?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-FFA500?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-ED8B00?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-E34F26?style=flat-square&logo=rust&logoColor=white" />
 </p>
 
 <h3>Open source projects</h3>
