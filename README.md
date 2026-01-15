@@ -62,9 +62,13 @@
 
 <div align="center">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kakzaki&theme=tokyonight)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakzaki&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kakzaki&theme=tokyonight&utcOffset=7)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakzaki&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kakzaki&theme=tokyonight)
 
 </div>
 
