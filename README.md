@@ -62,9 +62,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kakzaki&count_private=true&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kakzaki&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kakzaki&layout=compact&count_private=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kakzaki&theme=tokyonight)
 
 </div>
 
